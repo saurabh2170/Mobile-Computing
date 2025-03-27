@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.ak1.drawboxsample.app-mergeDebugResources-54:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\8.11.1\\transforms\\1065763483924543b28a46e4d511f771\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

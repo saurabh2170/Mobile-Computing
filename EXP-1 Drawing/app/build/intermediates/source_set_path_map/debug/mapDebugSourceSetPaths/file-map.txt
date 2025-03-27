@@ -1,0 +1,59 @@
+io.ak1.drawboxsample.app-jetified-savedstate-ktx-1.2.0-0 C:\Users\Dell\.gradle\caches\8.11.1\transforms\001a14212e66e8e1d853faba3f12905c\transformed\jetified-savedstate-ktx-1.2.0\res
+io.ak1.drawboxsample.app-jetified-savedstate-1.2.0-1 C:\Users\Dell\.gradle\caches\8.11.1\transforms\0377443d1855661e51106ec6aa7d492f\transformed\jetified-savedstate-1.2.0\res
+io.ak1.drawboxsample.app-jetified-ui-unit-1.3.3-2 C:\Users\Dell\.gradle\caches\8.11.1\transforms\057174ff74a98d0dac4c33fc72046f96\transformed\jetified-ui-unit-1.3.3\res
+io.ak1.drawboxsample.app-jetified-animation-core-1.3.3-3 C:\Users\Dell\.gradle\caches\8.11.1\transforms\0bce7dc3d00fc60d21d339476b8bf28c\transformed\jetified-animation-core-1.3.3\res
+io.ak1.drawboxsample.app-jetified-animation-1.3.3-4 C:\Users\Dell\.gradle\caches\8.11.1\transforms\100485c087f7fc1a06fa982d694c22ee\transformed\jetified-animation-1.3.3\res
+io.ak1.drawboxsample.app-appcompat-1.6.1-5 C:\Users\Dell\.gradle\caches\8.11.1\transforms\1065763483924543b28a46e4d511f771\transformed\appcompat-1.6.1\res
+io.ak1.drawboxsample.app-jetified-annotation-experimental-1.3.0-6 C:\Users\Dell\.gradle\caches\8.11.1\transforms\18523752ac5d9f383cf2bda701c40d74\transformed\jetified-annotation-experimental-1.3.0\res
+io.ak1.drawboxsample.app-jetified-lifecycle-runtime-ktx-2.5.1-7 C:\Users\Dell\.gradle\caches\8.11.1\transforms\1b48a100d4192bb86c44efaea8c47cfc\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+io.ak1.drawboxsample.app-constraintlayout-2.0.1-8 C:\Users\Dell\.gradle\caches\8.11.1\transforms\26130140b0d5cb1c6274d78173e3005d\transformed\constraintlayout-2.0.1\res
+io.ak1.drawboxsample.app-jetified-ui-tooling-preview-1.3.3-9 C:\Users\Dell\.gradle\caches\8.11.1\transforms\33417bb585282d90ab9fa95e7bc3c921\transformed\jetified-ui-tooling-preview-1.3.3\res
+io.ak1.drawboxsample.app-jetified-viewpager2-1.0.0-10 C:\Users\Dell\.gradle\caches\8.11.1\transforms\34aaee57cd73eb4dec9c20a1e0e3aa85\transformed\jetified-viewpager2-1.0.0\res
+io.ak1.drawboxsample.app-jetified-material-ripple-1.3.1-11 C:\Users\Dell\.gradle\caches\8.11.1\transforms\34b09ae7c95deb35d44a5fbec5c4e496\transformed\jetified-material-ripple-1.3.1\res
+io.ak1.drawboxsample.app-jetified-ui-geometry-1.3.3-12 C:\Users\Dell\.gradle\caches\8.11.1\transforms\3d9f5efb8fefc93cee22cb3b5e86fbff\transformed\jetified-ui-geometry-1.3.3\res
+io.ak1.drawboxsample.app-jetified-lifecycle-process-2.4.1-13 C:\Users\Dell\.gradle\caches\8.11.1\transforms\470662515fc8d223389a93a3baecb52f\transformed\jetified-lifecycle-process-2.4.1\res
+io.ak1.drawboxsample.app-recyclerview-1.1.0-14 C:\Users\Dell\.gradle\caches\8.11.1\transforms\4bf363d3f32c08151941cf6faeba05ec\transformed\recyclerview-1.1.0\res
+io.ak1.drawboxsample.app-lifecycle-runtime-2.5.1-15 C:\Users\Dell\.gradle\caches\8.11.1\transforms\4d0143fa5c094b142c2c762c5016192e\transformed\lifecycle-runtime-2.5.1\res
+io.ak1.drawboxsample.app-jetified-ui-tooling-data-1.3.3-16 C:\Users\Dell\.gradle\caches\8.11.1\transforms\4efdd81f8cb00a337684f669afd623dc\transformed\jetified-ui-tooling-data-1.3.3\res
+io.ak1.drawboxsample.app-jetified-activity-ktx-1.6.1-17 C:\Users\Dell\.gradle\caches\8.11.1\transforms\512785dd49f8eaa0dfb6aa1ca91b0f45\transformed\jetified-activity-ktx-1.6.1\res
+io.ak1.drawboxsample.app-core-1.9.0-18 C:\Users\Dell\.gradle\caches\8.11.1\transforms\520b0d849ec1b97b59f916ced546473f\transformed\core-1.9.0\res
+io.ak1.drawboxsample.app-jetified-appcompat-resources-1.6.1-19 C:\Users\Dell\.gradle\caches\8.11.1\transforms\542617661cdd6643b13b2c9e7a5a62de\transformed\jetified-appcompat-resources-1.6.1\res
+io.ak1.drawboxsample.app-jetified-emoji2-1.2.0-20 C:\Users\Dell\.gradle\caches\8.11.1\transforms\61c29c7656aa1423922b5bf3830b0dec\transformed\jetified-emoji2-1.2.0\res
+io.ak1.drawboxsample.app-jetified-ui-util-1.3.3-21 C:\Users\Dell\.gradle\caches\8.11.1\transforms\74b686227b0f5d2ff478764ff416b619\transformed\jetified-ui-util-1.3.3\res
+io.ak1.drawboxsample.app-jetified-startup-runtime-1.1.1-22 C:\Users\Dell\.gradle\caches\8.11.1\transforms\757fd36604205652360f88be5945b24e\transformed\jetified-startup-runtime-1.1.1\res
+io.ak1.drawboxsample.app-jetified-customview-poolingcontainer-1.0.0-23 C:\Users\Dell\.gradle\caches\8.11.1\transforms\7683dff97672c600a2ab705bff01db8e\transformed\jetified-customview-poolingcontainer-1.0.0\res
+io.ak1.drawboxsample.app-jetified-runtime-1.3.3-24 C:\Users\Dell\.gradle\caches\8.11.1\transforms\76c4fc9d15e251cbc167231e7cb836d3\transformed\jetified-runtime-1.3.3\res
+io.ak1.drawboxsample.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-25 C:\Users\Dell\.gradle\caches\8.11.1\transforms\783b64ab8f78d7b552f96ca04cc22867\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+io.ak1.drawboxsample.app-jetified-ui-graphics-1.3.3-26 C:\Users\Dell\.gradle\caches\8.11.1\transforms\7ef67c484ffd7ed50807b7c466e09582\transformed\jetified-ui-graphics-1.3.3\res
+io.ak1.drawboxsample.app-fragment-1.3.6-27 C:\Users\Dell\.gradle\caches\8.11.1\transforms\8366d7338a20d770acc61d2025ff59d3\transformed\fragment-1.3.6\res
+io.ak1.drawboxsample.app-jetified-rang-vikalp-1.0.0-alpha02-28 C:\Users\Dell\.gradle\caches\8.11.1\transforms\8673bff5831e0dfb3cf33e4080445855\transformed\jetified-rang-vikalp-1.0.0-alpha02\res
+io.ak1.drawboxsample.app-jetified-ui-tooling-1.3.3-29 C:\Users\Dell\.gradle\caches\8.11.1\transforms\904c14967bf8f700924cc33d10de5ba0\transformed\jetified-ui-tooling-1.3.3\res
+io.ak1.drawboxsample.app-jetified-ui-1.3.3-30 C:\Users\Dell\.gradle\caches\8.11.1\transforms\93b8f314a2d3ac8edf399e6b2f63e085\transformed\jetified-ui-1.3.3\res
+io.ak1.drawboxsample.app-jetified-datastore-1.0.0-31 C:\Users\Dell\.gradle\caches\8.11.1\transforms\9da45d6991610532ece9df525586198e\transformed\jetified-datastore-1.0.0\res
+io.ak1.drawboxsample.app-jetified-lifecycle-viewmodel-ktx-2.5.1-32 C:\Users\Dell\.gradle\caches\8.11.1\transforms\9e686a17eac39046da55b98326436e68\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+io.ak1.drawboxsample.app-transition-1.2.0-33 C:\Users\Dell\.gradle\caches\8.11.1\transforms\a3415eb7b179680a085e138d78bb084f\transformed\transition-1.2.0\res
+io.ak1.drawboxsample.app-cardview-1.0.0-34 C:\Users\Dell\.gradle\caches\8.11.1\transforms\abcc30d8fb37c05157fe2869b93beac7\transformed\cardview-1.0.0\res
+io.ak1.drawboxsample.app-jetified-datastore-preferences-1.0.0-35 C:\Users\Dell\.gradle\caches\8.11.1\transforms\b57643fdc0ae22e93d87e433b723694c\transformed\jetified-datastore-preferences-1.0.0\res
+io.ak1.drawboxsample.app-jetified-ui-text-1.3.3-36 C:\Users\Dell\.gradle\caches\8.11.1\transforms\b8357d69c07fe2aeabc087a38b3ee611\transformed\jetified-ui-text-1.3.3\res
+io.ak1.drawboxsample.app-jetified-runtime-saveable-1.3.3-37 C:\Users\Dell\.gradle\caches\8.11.1\transforms\bd3ad4d4a1f48951eb48296eae7ba342\transformed\jetified-runtime-saveable-1.3.3\res
+io.ak1.drawboxsample.app-material-1.8.0-38 C:\Users\Dell\.gradle\caches\8.11.1\transforms\bd7e24bbe1fd80e91ebada239b63a241\transformed\material-1.8.0\res
+io.ak1.drawboxsample.app-jetified-activity-1.6.1-39 C:\Users\Dell\.gradle\caches\8.11.1\transforms\be0a8d71f9b8d6bca1bf21fbab25c789\transformed\jetified-activity-1.6.1\res
+io.ak1.drawboxsample.app-jetified-profileinstaller-1.2.0-40 C:\Users\Dell\.gradle\caches\8.11.1\transforms\c702d9509074c83a20d1f1fff4290c33\transformed\jetified-profileinstaller-1.2.0\res
+io.ak1.drawboxsample.app-jetified-foundation-1.2.0-41 C:\Users\Dell\.gradle\caches\8.11.1\transforms\c8df0a44b3e1a520f2852e6aa77ccb2d\transformed\jetified-foundation-1.2.0\res
+io.ak1.drawboxsample.app-jetified-core-ktx-1.9.0-42 C:\Users\Dell\.gradle\caches\8.11.1\transforms\d1585f1bd96356fd061f6861ecc385e6\transformed\jetified-core-ktx-1.9.0\res
+io.ak1.drawboxsample.app-lifecycle-livedata-core-2.5.1-43 C:\Users\Dell\.gradle\caches\8.11.1\transforms\d17d6a33ff66c3c787b544a58a9bf426\transformed\lifecycle-livedata-core-2.5.1\res
+io.ak1.drawboxsample.app-jetified-material-1.3.1-44 C:\Users\Dell\.gradle\caches\8.11.1\transforms\d673ecb25bf1b41adc88c6d763666f35\transformed\jetified-material-1.3.1\res
+io.ak1.drawboxsample.app-drawerlayout-1.1.1-45 C:\Users\Dell\.gradle\caches\8.11.1\transforms\d749a6382c86b2f945ebe330ecd74df4\transformed\drawerlayout-1.1.1\res
+io.ak1.drawboxsample.app-coordinatorlayout-1.1.0-46 C:\Users\Dell\.gradle\caches\8.11.1\transforms\d9f62665edf9723e03b38d09df56551e\transformed\coordinatorlayout-1.1.0\res
+io.ak1.drawboxsample.app-jetified-activity-compose-1.6.1-47 C:\Users\Dell\.gradle\caches\8.11.1\transforms\e0335580d2919c9daf0d170bd608f0f9\transformed\jetified-activity-compose-1.6.1\res
+io.ak1.drawboxsample.app-jetified-material-icons-core-1.3.1-48 C:\Users\Dell\.gradle\caches\8.11.1\transforms\e62155339d3278248c901b28d27c29e8\transformed\jetified-material-icons-core-1.3.1\res
+io.ak1.drawboxsample.app-jetified-emoji2-views-helper-1.2.0-49 C:\Users\Dell\.gradle\caches\8.11.1\transforms\ef723f80b7745162caa4d1efd9aac8b4\transformed\jetified-emoji2-views-helper-1.2.0\res
+io.ak1.drawboxsample.app-lifecycle-viewmodel-2.5.1-50 C:\Users\Dell\.gradle\caches\8.11.1\transforms\f653120ad839b9ad2ec12ba8c09ee243\transformed\lifecycle-viewmodel-2.5.1\res
+io.ak1.drawboxsample.app-jetified-foundation-layout-1.2.0-51 C:\Users\Dell\.gradle\caches\8.11.1\transforms\f933f468a4108e828205b5dc83e6a59c\transformed\jetified-foundation-layout-1.2.0\res
+io.ak1.drawboxsample.app-resValues-52 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\app\build\generated\res\resValues\debug
+io.ak1.drawboxsample.app-mergeDebugResources-53 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+io.ak1.drawboxsample.app-mergeDebugResources-54 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+io.ak1.drawboxsample.app-debug-55 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\app\build\intermediates\merged_res\debug\mergeDebugResources
+io.ak1.drawboxsample.app-debug-56 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\app\src\debug\res
+io.ak1.drawboxsample.app-main-57 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\app\src\main\res
+io.ak1.drawboxsample.app-debug-58 C:\Users\Dell\Downloads\MC-EXPERIMENTS-main\EXP-1 Drawing\drawbox\build\intermediates\packaged_res\debug\packageDebugResources
